@@ -1,5 +1,5 @@
-# Pwn - Getting Started
-#### Get ready for the last guided challenge and your first real exploit. It's time to show your hacking skills.
+# Getting Started
+#### Description: Get ready for the last guided challenge and your first real exploit. It's time to show your hacking skills.
 _______________________
 
 Connecting to the service using netcat we see some guided information: `Fill the 32-byte buffer, overwrite the alginment address and the "target's" 0xdeadbeef value.`
